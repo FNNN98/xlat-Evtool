@@ -16,6 +16,8 @@ Informations and dependencies
   
   https://wiki.segger.com/Using_J-Link_VCOM_functionality
 
+  _J-Link Configurator method is recommended_
+
 <h4 align="left"> Disclaimer:</h4>
 
 XLAT is a registered trademark of Finalmouse. The use of the xlat-Evtool name does not indicate endorsement by or affiliation with Finalmouse , and is used here under fair use principles as an open source external evaluation tool released under GPLv3 aimed at developers, enthusiasts and reviewers.
