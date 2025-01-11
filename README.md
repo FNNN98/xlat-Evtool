@@ -46,7 +46,4 @@ Informations and dependencies
 
 XLAT is a registered trademark of Finalmouse. The use of the xlat-Evtool name does not indicate endorsement by or affiliation with Finalmouse , and is used here under fair use principles as an open source external evaluation tool released under GPLv3 aimed at developers, enthusiasts and reviewers.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/axaro11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axaro11" height="30" width="40" /></a>
-</p>
+
